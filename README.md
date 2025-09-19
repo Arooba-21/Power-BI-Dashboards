@@ -26,7 +26,7 @@ This dashboard consist of 2 pages one for overview one for attrition analysis.
 
 ---
 
-## ☕ Sales Analysis Dashboard  
+## Sales Analysis Dashboard  
 
 ### Key Insights  
 - sum os sales by product line
